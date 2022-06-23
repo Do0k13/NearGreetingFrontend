@@ -1,0 +1,6 @@
+.parcel-cache/
+contract/Cargo.lock
+cat >> .gitignore <<'EOF'
+.parcel-cache/
+contract/Cargo.lock
+contract/target/
